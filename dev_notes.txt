@@ -1,0 +1,1 @@
+deeploc do pobrania przez usera (deeploc_path), to samo z narzędziami od DTU, zawrzeć w instrukcji
